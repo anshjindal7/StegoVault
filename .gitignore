@@ -1,0 +1,9 @@
+# Build output (VS Code uses bin/, build.sh uses build/)
+bin/
+build/
+*.class
+
+# Your saved logins: never commit these
+vault/
+
+.DS_Store
